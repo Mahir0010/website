@@ -102,7 +102,7 @@ body{
     <!-- --------- FAVICON ---------- -->
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
 
-    <title>Portfolio | Ludiflex</title>
+    <title>Portfolio 
 </head>
 <body>
    <div class="container">
